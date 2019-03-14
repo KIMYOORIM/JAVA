@@ -1,0 +1,17 @@
+
+public class Test2 {
+	public static void main(String[] args) {
+		int a = 10;
+		int valName2 = 3;
+		System.out.print(a / valName2);
+		
+		char b = 'A';
+		char g = 'B';
+		
+		
+System.out.println(g);		
+System.out.println('\"');
+
+
+	}
+}

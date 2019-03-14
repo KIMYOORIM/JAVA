@@ -1,0 +1,19 @@
+
+public class Test2 {
+	public static void main(String[] args) {
+
+		char a = 'A';
+		char b = 'B';
+
+		System.out.print(a);
+		System.out.print('\"');
+		System.out.print(b);
+		
+		char d = 'h';
+		char g = '\t';
+		char j = 'l';
+		System.out.println(h,g,j);
+		
+		
+	}
+}

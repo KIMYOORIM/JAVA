@@ -1,0 +1,28 @@
+public class HelloJava {
+	public static void main(String[] args) {
+	System.out.println("Hello Java!!");
+		System.out.println("Hello Java!!");
+
+		
+		int i = 10;
+		double d = 10.5555;
+		boolean b = true;
+		char c = '°¡³ª´Ù';
+		
+	
+		System.out.println(i);
+		System.out.println(d);		
+		System.out.println(b);
+		System.out.println(c);
+		
+		int value = 10;
+		System.out.println(value);
+		
+		
+		
+	}
+}
+
+
+
+

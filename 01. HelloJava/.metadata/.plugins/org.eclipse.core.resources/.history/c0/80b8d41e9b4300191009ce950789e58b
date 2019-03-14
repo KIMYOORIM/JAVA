@@ -1,0 +1,15 @@
+
+public class Test2 {
+	public static void main(String[] args) {
+		
+		char b = 'A';
+		char g = 'B';
+		
+System.out.println(b);
+System.out.println('\"');
+System.out.println(g);
+
+
+
+	}
+}
