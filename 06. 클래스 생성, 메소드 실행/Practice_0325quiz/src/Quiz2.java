@@ -1,4 +1,3 @@
-
 public class Quiz2 {
 	public void SumNumber(int num1, int num2) {
 		int totalNumber = 0;

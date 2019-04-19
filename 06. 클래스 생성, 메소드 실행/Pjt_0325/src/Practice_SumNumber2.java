@@ -7,6 +7,5 @@ public class Practice_SumNumber2 {
 		sum.doSum();
 		sum.hello();
 		new Test2();
-
 	}
 }

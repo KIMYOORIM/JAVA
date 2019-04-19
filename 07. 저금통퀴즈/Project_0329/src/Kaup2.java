@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Kaup2 {
 	public double weight;
 	public double height;
+nner(System.in);
 
 	public void process() {
 		this.inputData();
@@ -11,8 +12,7 @@ public class Kaup2 {
 	}
 
 	public void inputData() {
-		Scanner scanner = new Scanner(System.in);
-
+		Scanner scanner = new Sca
 		System.out.println("체중입력 (단위 kg) : ");
 		this.weight = scanner.nextDouble();
 

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class RunClass {
+	MoneyBox.coin
 	public static void main(String[] args) {
 		MoneyBox moneyBox = new MoneyBox();
 		Scanner scanner = new Scanner(System.in);
