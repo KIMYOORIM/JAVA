@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class ts318 {
 		
 	public static void main(String[] args) {
-			int score1 = 98;
-			int score2 = 86;
-			int score3 = 78;
+			int score1;
+			int score2;
+			int score3;
 			// 학생1의 국어점수는 score1
 			// 학생2의 국어점수는 score2
 			// 학생3의 국어점수는 score3

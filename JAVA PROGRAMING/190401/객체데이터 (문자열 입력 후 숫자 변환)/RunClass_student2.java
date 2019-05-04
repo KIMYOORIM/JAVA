@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//문자열로 입력받고 숫자로 변환
 public class RunClass {
 	public static void main(String[] args) {
 		Student2[] sArray = new Student2[10];
